@@ -1,5 +1,5 @@
 # Organizations@GitHub
----
+
 
 
 https://github.com/aws
@@ -21,6 +21,8 @@ https://github.com/Microsoft
 https://github.com/IBM
 
 https://github.com/intel
+
+---
 
 https://github.com/Huawei
 
