@@ -31,3 +31,5 @@ https://github.com/alibaba
 https://github.com/Tencent
 
 https://github.com/lenovo
+
+https://github.com/baidu
